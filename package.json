@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "unidecode": "^0.1.8",
     "xlsx": "^0.18.5"
   }
 }

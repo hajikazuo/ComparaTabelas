@@ -1,9 +1,9 @@
 Código para compara notas entre duas tabelas no excel.
 
-Neste caso alguns parâmetros precisam ser seguidos para o código funcionar:
+Instalar os seguintes pacotes:
+npm install xlsx
+npm install unidecode
 
-1. As tabelas respectivamente precisam estar nomeadas como tabela1 e tabela2.
-2. As tabelas precisam respectivamente ter as seguintes colunas: nome, nota1, nota2 e nota3.
 
 Para rodar basta ter o node.js instalado e digitar no terminal node index.js
 
